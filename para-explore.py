@@ -43,6 +43,6 @@ def main():
             table.add_row(str(i), output.strip()) 
   
         console.print(table) 
-        console.print()
+        console.print() 
         if __name__ == "__main__": 
-main()
+            main()
